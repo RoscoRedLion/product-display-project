@@ -5,7 +5,7 @@ This is a solution to the Product Display challenge on Frontend Mentor. Frontend
 
 [Links] GitHub 
   Repository: https://github.com/RoscoRedLion/product-display-project 
-  Live Website: https://roscoredlion.github.io/social-links-profile/
+  Live Website: https://roscoredlion.github.io/product-display-project
 
 [My process] This page was created using VS Code (html, css) The buttons were made interactive using 'transform: scale(1.1)' and 'cursor: pointer'
 
